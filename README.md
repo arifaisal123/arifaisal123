@@ -18,7 +18,7 @@
 </p>
 
 ## ✨ Github Stats
-[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifaisal123&hide_rank=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifaisal123&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifaisal123)](https://git.io/streak-stats)
 
 ## ⚡ Top Languages
