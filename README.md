@@ -1,7 +1,10 @@
 ### Hi, I'm Arif Faisal 👋
 ![](https://komarev.com/ghpvc/?username=arifaisal123)
 
-[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifaisal123)](https://github.com/arifaisal123/github-readme-stats)
+### Github Stats
+[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifaisal123)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaisal123)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifaisal123)](https://git.io/streak-stats)
 
 
 <!--
