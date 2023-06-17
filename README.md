@@ -1,6 +1,9 @@
 ### Hi, I'm Arif Faisal 👋
 ![](https://komarev.com/ghpvc/?username=arifaisal123)
-  
+
+[![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifaisal123)](https://github.com/arifaisal123/github-readme-stats)
+
+
 <!--
 **arifaisal123/arifaisal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
