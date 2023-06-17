@@ -7,15 +7,14 @@
 ## 💻 Skills and Technologies
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="30" width="30"/> 
-  <img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" height="30" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" height="30"
-       width="30"/>
-  <img src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png" height="30" width="30"/> 
-  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="30" width="30"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjl0vEakPtx6iubXI-VLP56s36ZNRp30DEsw&usqp=CAU" height="30" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30" width="30"/>
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" height="30" width="50"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="30"
+       width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="30" width="30"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="30" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="30" width="30"/>
+  <img src="https://www.svgrepo.com/show/473611/flask.svg" height="30" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height="30" width="30"/>
 </p>
 
 ## Github Stats
