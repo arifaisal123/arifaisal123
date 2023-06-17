@@ -4,7 +4,7 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifaisal123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/faisalcodes123) [![LeetCode user arifaisal123](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farifaisal123&logo=leetcode&logoColor=yellow)](https://leetcode.com/arifaisal123/)
 
-## 💻 Skills and Technologies
+## 💻 Languages and Technologies
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="30" width="30"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30" width="30"/>
@@ -17,11 +17,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" height="30" width="30"/>
 </p>
 
-## Github Stats
+## ✨ Github Stats
 [![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifaisal123)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaisal123)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifaisal123)](https://git.io/streak-stats)
 
+## ⚡ Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaisal123)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **arifaisal123/arifaisal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
