@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi, I'm Arif Faisal 👋
+![](https://komarev.com/ghpvc/?username=arifaisal123)
+  
 <!--
 **arifaisal123/arifaisal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
