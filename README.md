@@ -22,7 +22,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifaisal123)](https://git.io/streak-stats)
 
 ## ⚡ Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaisal123&layout=compact&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifaisal123&layout=compact&hide=C++,TeX)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **arifaisal123/arifaisal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
