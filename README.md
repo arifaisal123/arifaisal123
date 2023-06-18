@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=arifaisal123) [![wakatime](https://wakatime.com/badge/user/bf2ed4b7-af92-4e79-924a-22a2ff275634.svg)](https://wakatime.com/@bf2ed4b7-af92-4e79-924a-22a2ff275634)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifaisal123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/faisalcodes123) [![LeetCode user arifaisal123](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farifaisal123&logo=leetcode&logoColor=yellow)](https://leetcode.com/arifaisal123/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifaisal123) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/faisalcodes123) [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@faisalcodes123) [![LeetCode user arifaisal123](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farifaisal123&logo=leetcode&logoColor=yellow)](https://leetcode.com/arifaisal123/)
 
 ## 💻 Languages and Technologies
 <p align="left">
