@@ -7,7 +7,7 @@
 ## 💻 Languages and Technologies
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" height="30" width="30"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30" width="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="30" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="30"
        width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/archive/b/b2/20210507000023%21Bootstrap_logo.svg" height="30" width="30"/>
